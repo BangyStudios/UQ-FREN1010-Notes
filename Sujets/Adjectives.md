@@ -5,7 +5,7 @@
 | **Grand(e)**           | Big, tall    | Un grand arbre          | A big tree             |
 | **Petit(e)**           | Small, short | Une petite maison       | A small house          |
 | **Beau (belle)**       | Beautiful    | Une belle fleur         | A beautiful flower     |
-| **Bon(ne)**            | Good         | Un bon repas            | A good meal            |
+| **Bon(ne)/Mieux**      | Good         | Un bon repas            | A good meal            |
 | **Mauvais(e)**         | Bad          | Un mauvais film         | A bad movie            |
 | **Jeune**              | Young        | Un homme jeune          | A young man            |
 | **Vieux (vieille)**    | Old          | Une vieille voiture     | An old car             |

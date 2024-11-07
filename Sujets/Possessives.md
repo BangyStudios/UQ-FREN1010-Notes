@@ -1,5 +1,4 @@
-
-| **Possessor**                                  | **Masculine Singular** | **Feminine Singular** | **Before Vowel or Silent 'h'** | **Plural** |
+| Possessor                                      | **Masculine Singular** | **Feminine Singular** | **Before Vowel or Silent 'h'** | **Plural** |
 | ---------------------------------------------- | ---------------------- | --------------------- | ------------------------------ | ---------- |
 | **1st Person Singular** (my)                   | mon                    | ma                    | mon                            | mes        |
 | **2nd Person Singular** (your, informal)       | ton                    | ta                    | ton                            | tes        |
