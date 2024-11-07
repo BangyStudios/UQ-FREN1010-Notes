@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_9_STUDENT.pdf|SEMAINE_9_STUDENT]]
+[[SEMAINE_9_STUDENT.pdf|SEMAINE_9_STUDENT]]
 # Notes
 ### Pratiquer L'Écrit
 **Julia**

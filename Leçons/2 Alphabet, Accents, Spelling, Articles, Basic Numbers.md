@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_2_STUDENTS.pdf]]
+[[SEMAINE_2_STUDENTS.pdf]]
 # Notes
 
 ## Alphabet Pronunciation

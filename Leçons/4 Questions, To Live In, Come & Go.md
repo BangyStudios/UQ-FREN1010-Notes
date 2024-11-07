@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_4_STUDENTS.pdf]]
+[[SEMAINE_4_STUDENTS.pdf]]
 # Notes
 ## Write 4 Questions
 Où est l'Universite du Queensland?

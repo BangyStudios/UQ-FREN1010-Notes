@@ -1,4 +1,4 @@
-[[Attachments/1_SEMAINE_1_STUDENTS.pdf]]
+[[1_SEMAINE_1_STUDENTS.pdf]]
 # Notes
 
 ## Pronunciation Rules

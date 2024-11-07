@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_7_STUDENTS__7_.pdf|SEMAINE_7_STUDENTS__7_]]
+[[SEMAINE_7_STUDENTS__7_.pdf|SEMAINE_7_STUDENTS__7_]]
 # Notes
 ## Family
 * Typically referred to as "Ma belle famille"

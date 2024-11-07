@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_5__Students.pdf]]
+[[SEMAINE_5__Students.pdf]]
 # Notes
 
 ## Page 35 Activity

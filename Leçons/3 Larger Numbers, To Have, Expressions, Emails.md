@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE 3.STUDENT (4).pdf]]
+[[SEMAINE 3.STUDENT (4).pdf]]
 # Notes
 
 ## Larger Numbers

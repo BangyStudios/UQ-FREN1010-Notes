@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_11_STUDENTS__7_.pdf|SEMAINE_11_STUDENTS__7_]]
+[[SEMAINE_11_STUDENTS__7_.pdf|SEMAINE_11_STUDENTS__7_]]
 # Notes
 ### This
 * Ce

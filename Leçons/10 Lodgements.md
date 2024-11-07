@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_10_STUDENTS__4_.pdf]]
+[[SEMAINE_10_STUDENTS__4_.pdf]]
 # Notes
 ### Making Sentences Lodgement
 Où habite-t-elle/il?

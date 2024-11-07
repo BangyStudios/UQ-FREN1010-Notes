@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE_8_STUDENTS__5_.pdf]]
+[[SEMAINE_8_STUDENTS__5_.pdf]]
 # Notes
 ## Nicolas/François Questions
 * Qui est la premiere femme de Ncholas.

@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE 12.STUDENTS.pdf]]
+[[SEMAINE 12.STUDENTS.pdf]]
 # Remarques
 L'armoire sert à ranger des vêtements.
 Le canapé sert à se reposer.

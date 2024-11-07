@@ -1,4 +1,4 @@
-[[Attachments/SEMAINE__6_STUDENTS__5_.pdf|SEMAINE__6_STUDENTS__5_]]
+[[SEMAINE__6_STUDENTS__5_.pdf|SEMAINE__6_STUDENTS__5_]]
 # Notes
 
 ### Example Revision Profiles
